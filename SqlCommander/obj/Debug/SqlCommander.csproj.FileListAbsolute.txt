@@ -1,0 +1,11 @@
+E:\CommondCode\SqlCommander\SqlCommander\bin\Debug\SqlCommander.exe.config
+E:\CommondCode\SqlCommander\SqlCommander\bin\Debug\SqlCommander.exe
+E:\CommondCode\SqlCommander\SqlCommander\bin\Debug\SqlCommander.pdb
+E:\CommondCode\SqlCommander\SqlCommander\bin\Debug\MySql.Data.dll
+E:\CommondCode\SqlCommander\SqlCommander\bin\Debug\MySql.Data.xml
+E:\CommondCode\SqlCommander\SqlCommander\obj\Debug\SqlCommander.csprojResolveAssemblyReference.cache
+E:\CommondCode\SqlCommander\SqlCommander\obj\Debug\SqlCommander.Form1.resources
+E:\CommondCode\SqlCommander\SqlCommander\obj\Debug\SqlCommander.Properties.Resources.resources
+E:\CommondCode\SqlCommander\SqlCommander\obj\Debug\SqlCommander.csproj.GenerateResource.Cache
+E:\CommondCode\SqlCommander\SqlCommander\obj\Debug\SqlCommander.exe
+E:\CommondCode\SqlCommander\SqlCommander\obj\Debug\SqlCommander.pdb
